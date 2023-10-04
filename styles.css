@@ -1,0 +1,16 @@
+.intro {
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.middle,
+.end {
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
